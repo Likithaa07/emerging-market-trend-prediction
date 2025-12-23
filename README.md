@@ -134,3 +134,25 @@ These plots help explain and validate the model’s predictions.
 ---
 
 ## Project Structure
+
+---
+
+## Key Takeaways
+- Stock market trends can be detected early using price and volume data
+- Simple and explainable models can still be effective
+- Ranking predictions is more useful than simple classification
+- Visualization helps validate and communicate results
+
+---
+
+## Future Improvements
+- Add more technical indicators
+- Test other machine learning models
+- Use intraday or real-time data
+- Expand the analysis to more stocks or sectors
+
+---
+
+## License
+This project is released under the **MIT License**.
+
